@@ -31,6 +31,8 @@ public class LibroController {
         listaLibros.add(new LibroDTO(16, "Harry Potter y el prisionero de Azkaban", "J.K. Rowling", JUVENIL, true));
         listaLibros.add(new LibroDTO(17, "1984", "George Orwell", FICCION, false));
         listaLibros.add(new LibroDTO(18, "La importancia de llamarse Ernesto", "Oscar Wilde", COMEDIA, true));
+        listaLibros.add(new LibroDTO(19, "Crónica de una muerte anunciada", "Gabriel García Márquez", LITERATURA, true));
+        listaLibros.add(new LibroDTO(20, "Las aventuras de Tom Sawyer", "Mark Twain", VIAJE, true));
         listaLibros.add(new LibroDTO(21, "El alquimista", "Paulo Coelho", LITERATURA, true));
         listaLibros.add(new LibroDTO(22, "Moby Dick", "Herman Melville", VIAJE, false));
         listaLibros.add(new LibroDTO(23, "El retrato de Dorian Gray", "Oscar Wilde", FICCION, true));
@@ -49,8 +51,7 @@ public class LibroController {
         listaLibros.add(new LibroDTO(36, "El amor en los tiempos del cólera", "Gabriel García Márquez", POETICO, true));
         listaLibros.add(new LibroDTO(37, "Cien años de soledad", "Gabriel García Márquez", LITERATURA, true));
         listaLibros.add(new LibroDTO(38, "El señor de los anillos", "J.R.R. Tolkien", FICCION, false));
-        listaLibros.add(new LibroDTO(39, "Crónica de una muerte anunciada", "Gabriel García Márquez", LITERATURA, true));
-        listaLibros.add(new LibroDTO(40, "Las aventuras de Tom Sawyer", "Mark Twain", VIAJE, true));
+
 
         listaLibros.add(new LibroDTO(51,"titulo 51","autor 51",COMEDIA,true));
         listaLibros.add(new LibroDTO(52,"titulo 52","autor 52",LINGUISTICO,true));
